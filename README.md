@@ -1,6 +1,7 @@
 Hi, I'm @bhuvu
 I am a intermediate coder👨‍💻
-I am interested in collaboration on python and c++ related projects 
+I am interested in collaboration on python and c++ related projects.
+I am very much into Ethical hacking and machine learning 🎓
 
 
 <!---
